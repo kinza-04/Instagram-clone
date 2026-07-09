@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Clone",
+  "description": "A fully functional, high-fidelity Instagram web clone featuring the original landing/login screen, interactive home feed, active stories with auto-play, real-time post creation with filters, instant messaging, and profile customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
